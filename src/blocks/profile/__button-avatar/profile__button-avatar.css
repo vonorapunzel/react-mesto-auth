@@ -1,0 +1,16 @@
+.profile__button-avatar {
+ opacity: 0;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  left: 50px;
+  right: 0px;
+}
+
+.profile__container:hover .profile__button-avatar {
+  opacity: 1;
+}
+
+
