@@ -1,0 +1,21 @@
+.entrance-form__input {
+  background-color: #000;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ccc;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.entrance-form__input:focus  {
+  outline: none;
+}
+
+.entrance-form__input:-webkit-autofill
+{
+  -webkit-box-shadow: 0 0 0 30px #000 inset;
+  -webkit-text-fill-color: #fff;
+}

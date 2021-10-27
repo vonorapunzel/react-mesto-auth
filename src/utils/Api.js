@@ -1,6 +1,7 @@
 class Api {
   constructor() {
     this._url = "https://mesto.nomoreparties.co/v1/cohort-27";
+    this.BASE_URL = "https://auth.nomoreparties.co"
     this._headers = {
       authorization: "4eb3e4fd-35e6-4e03-a07a-c921c4bb1bec",
       "Content-Type": "application/json",

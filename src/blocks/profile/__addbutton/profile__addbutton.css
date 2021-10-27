@@ -12,11 +12,13 @@
   box-sizing: border-box;
   border-radius: 2px;
   outline: none;
+  transition: all .3s ease-out;
 }
 
 .profile__addbutton:hover {
   opacity: .6;
   cursor: pointer;
+  transition: all .3s ease-out;
 }
 
 @media screen and (max-width: 768px) {

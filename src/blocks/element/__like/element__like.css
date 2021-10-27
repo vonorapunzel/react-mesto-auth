@@ -6,9 +6,11 @@
   background-color: unset;
   outline: none;
   padding: 0;
+  transition: all .3s ease-out;
 }
 
 .element__like:hover {
   opacity: .5;
   cursor: pointer;
+  transition: all .3s ease-out;
 }

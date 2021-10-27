@@ -1,0 +1,11 @@
+.entrance-form__enter {
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  transition: all .3s ease-out;
+}
+
+.entrance-form__enter:hover {
+  opacity: .6;
+  transition: all .3s ease-out;
+}

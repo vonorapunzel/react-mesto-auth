@@ -59,7 +59,7 @@ function Main({
           />
         ))}
       </section>
-      {children}
+      
     </main>
   );
 }

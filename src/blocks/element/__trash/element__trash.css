@@ -15,4 +15,5 @@
 .element__trash:hover {
   opacity: .5;
   cursor: pointer;
+  transition: all .3s ease-out;
 }

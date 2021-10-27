@@ -1,0 +1,15 @@
+.header__login {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #fff;
+  margin-left: 25px;
+  transition: all .3s ease-out;
+}
+
+.header__login:hover {
+  opacity: .6;
+  transition: all .3s ease-out;
+}
